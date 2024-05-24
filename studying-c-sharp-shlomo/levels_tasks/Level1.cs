@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace studying_c_sharp_shlomo.levels_tasks
 {
-    internal class Level1
+    public class Level1
     {
         public static void RunMe()
         {

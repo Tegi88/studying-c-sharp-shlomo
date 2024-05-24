@@ -1,4 +1,5 @@
-﻿using System;
+﻿using studying_c_sharp_shlomo.object_basics;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace studying_c_sharp_shlomo
     {
         static void Main(string[] args)
         {
+            CreateNewShop.CreatePhon();
         }
     }
 }

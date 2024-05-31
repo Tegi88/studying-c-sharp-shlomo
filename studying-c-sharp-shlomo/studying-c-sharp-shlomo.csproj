@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="conflict\Conflict.cs" />
     <Compile Include="object-basics\ObjectTemplate.cs" />
     <Compile Include="object-basics\Phone.cs" />
     <Compile Include="Program.cs" />

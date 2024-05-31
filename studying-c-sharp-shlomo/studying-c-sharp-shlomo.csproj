@@ -47,6 +47,8 @@
     <Compile Include="levels_tasks\Level2.cs" />
     <Compile Include="levels_tasks\Level3_1.cs" />
     <Compile Include="levels_tasks\Level3_2.cs" />
+    <Compile Include="object-basics\ObjectTemplate.cs" />
+    <Compile Include="object-basics\Phone.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

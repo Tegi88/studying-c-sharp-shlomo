@@ -1,4 +1,5 @@
 ﻿using studying_c_sharp_shlomo.levels_tasks;
+using studying_c_sharp_shlomo.publicAndpraivte;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +12,8 @@ namespace studying_c_sharp_shlomo
     {
         public static void Main(string[] args)
         {
-            Level1.RunMe();
+            // Level1.RunMe();
+            Change.ChangeName();
         }
     }
 }

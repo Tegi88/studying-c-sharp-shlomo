@@ -52,9 +52,15 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="publicAndpraivte\PublicAndprivet.cs" />
+    <Compile Include="TaskSport\Game.cs" />
+    <Compile Include="TaskSport\Round.cs" />
+    <Compile Include="TaskSport\Season.cs" />
+    <Compile Include="TaskSport\Team.cs" />
+    <Compile Include="TaskSport\TestSportApp.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
